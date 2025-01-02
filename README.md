@@ -1,6 +1,6 @@
 # Wayang Dataset
 
-This dataset is designed for educational and research purposes, focusing on the classification and study of Wayang characters. It includes **8 categories** representing characters from the **Pandawa Lima** and **Punakawan**, namely:
+This dataset is designed for educational and research purposes, focusing on the classification and study of Wayang characters. This dataset was collected with crawling on Google Images and Pinterest platform. It includes **8 categories** representing characters from the **Pandawa Lima** and **Punakawan**, namely:
 
 - **Yudhistira**  
 - **Bima**  
